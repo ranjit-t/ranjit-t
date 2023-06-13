@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjit</h1>
 <h3 align="center">A passionate front-end developer based in France</h3>
 
-- 💬 Ask me about **anything on front-end**
+- 💬 Ask me about **anything on web development**
 
 - 📫 How to reach me **amailtoranjith@gmail.com**
 
