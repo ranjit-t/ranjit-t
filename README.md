@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranjit</h1>
-<h3 align="center">A passionate web developer based in France</h3>
+<h3 align="center">Programmer based in France</h3>
 
-- 💬 Ask me about **anything on web development**
 
 - 📫 How to reach me **amailtoranjith@gmail.com**
 
